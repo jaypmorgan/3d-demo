@@ -47,12 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\FirstPersonController.cs" />
-     <None Include="Assets\door_blend\License.txt" />
-     <None Include="Assets\wooden_office_tables_blend\License.txt" />
-     <None Include="Assets\bed1_blend\License.txt" />
-     <None Include="Assets\leather_sofa_blend\License.txt" />
-     <None Include="Assets\desk_lamp1_blend\License.txt" />
-     <None Include="Assets\living_lamp_blend\License.txt" />
+     <Compile Include="Assets\TrackIRCamera.cs" />
+ <Reference Include="TrackIRUnity">
+ <HintPath>Assets\Plugins 1\TrackIRUnity.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

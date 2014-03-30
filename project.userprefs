@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\2D\project\Assets\TrackIRCamera.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShowPaper.js">
     <Files>
-      <File FileName="..\..\2D\project\Assets\TrackIRCamera.cs" Line="66" Column="15" />
+      <File FileName="Assets\Scripts\pickupNote.js" Line="6" Column="35" />
+      <File FileName="Assets\Scripts\ShowPaper.js" Line="17" Column="155" />
+      <File FileName="Assets\Scripts\noteCounter.js" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\FirstPersonController.cs" Line="48" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
