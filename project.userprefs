@@ -1,11 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShowPaper.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\endGUI.js">
     <Files>
-      <File FileName="Assets\Scripts\pickupNote.js" Line="6" Column="35" />
-      <File FileName="Assets\Scripts\ShowPaper.js" Line="17" Column="155" />
-      <File FileName="Assets\Scripts\noteCounter.js" Line="11" Column="2" />
-      <File FileName="Assets\Scripts\FirstPersonController.cs" Line="48" Column="3" />
+      <File FileName="Assets\Scripts\endGUI.js" Line="21" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

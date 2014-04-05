@@ -14,6 +14,7 @@ function Update () {
 		showpaper.noteText = note;
 		showpaper.ShowPaper = true;
 		Destroy(gameObject);
+		Time.timeScale = 0;
 	}
 	
 }

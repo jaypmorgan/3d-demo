@@ -26,6 +26,7 @@ public class TrackIRCamera : MonoBehaviour {
         trackIRclient = new TrackIRUnity.TrackIRClient();  // Create an instance of the TrackerIR Client to get data from
         status = "";
         data = "";
+		StartCamera ();
 	}
 
     void StartCamera() {

@@ -17,6 +17,7 @@ function Update () {
 	if(Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.RightArrow)) { 
 		guiTexture.enabled = false;
 		ShowPaper = false;
+		Time.timeScale = 1.0;
 	}
 
 	

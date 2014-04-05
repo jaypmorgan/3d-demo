@@ -45,6 +45,9 @@ public class FirstPersonController : MonoBehaviour {
 			audio.Play();
 		}
 
+		if (Input.GetKeyDown(KeyCode.R)) { 
+			Application.LoadLevel("level1");
+		}
 
 	}
 }
